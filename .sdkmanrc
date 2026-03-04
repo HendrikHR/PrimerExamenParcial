@@ -1,0 +1,3 @@
+# Enable auto-env through sdkman configuration
+# Add key=value pairs of SDKs to use below
+java=11.0.25-amzn
